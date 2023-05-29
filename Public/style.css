@@ -1,0 +1,29 @@
+.education {
+    color: red;
+    text-align: center;
+}
+
+.work-experience {
+    color: green;
+    text-align: center;
+}
+
+.skills {
+    color: purple;
+    text-align: center;
+}
+
+.awards {
+    color: orange;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(143, 143, 189);
+}
+
+#main {
+    color: brown;
+    text-align: center;
+}
+
