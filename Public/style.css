@@ -27,3 +27,8 @@ body {
     text-align: center;
 }
 
+/* To center an image in HTML and CSS, you can use the following CSS code:*/
+img {
+  display: block;
+  margin: 0 auto;
+}
